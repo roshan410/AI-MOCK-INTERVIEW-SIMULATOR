@@ -1,4 +1,4 @@
-# AI-MOCK-INTERVIW-SIMULATOR
+# AI-MOCK-INTERVIEW-SIMULATOR
 How to Run the Project: AI Mock Interview Simulator
 
 1. Requirements
